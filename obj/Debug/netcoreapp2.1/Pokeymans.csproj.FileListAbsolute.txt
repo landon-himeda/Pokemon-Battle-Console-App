@@ -1,0 +1,11 @@
+C:\Users\3than\OneDrive\Documents\CodingDojo\CSharp_Stack\Pokeymans\bin\Debug\netcoreapp2.1\Pokeymans.deps.json
+C:\Users\3than\OneDrive\Documents\CodingDojo\CSharp_Stack\Pokeymans\bin\Debug\netcoreapp2.1\Pokeymans.runtimeconfig.json
+C:\Users\3than\OneDrive\Documents\CodingDojo\CSharp_Stack\Pokeymans\bin\Debug\netcoreapp2.1\Pokeymans.runtimeconfig.dev.json
+C:\Users\3than\OneDrive\Documents\CodingDojo\CSharp_Stack\Pokeymans\bin\Debug\netcoreapp2.1\Pokeymans.dll
+C:\Users\3than\OneDrive\Documents\CodingDojo\CSharp_Stack\Pokeymans\bin\Debug\netcoreapp2.1\Pokeymans.pdb
+C:\Users\3than\OneDrive\Documents\CodingDojo\CSharp_Stack\Pokeymans\obj\Debug\netcoreapp2.1\Pokeymans.csprojAssemblyReference.cache
+C:\Users\3than\OneDrive\Documents\CodingDojo\CSharp_Stack\Pokeymans\obj\Debug\netcoreapp2.1\Pokeymans.csproj.CoreCompileInputs.cache
+C:\Users\3than\OneDrive\Documents\CodingDojo\CSharp_Stack\Pokeymans\obj\Debug\netcoreapp2.1\Pokeymans.AssemblyInfoInputs.cache
+C:\Users\3than\OneDrive\Documents\CodingDojo\CSharp_Stack\Pokeymans\obj\Debug\netcoreapp2.1\Pokeymans.AssemblyInfo.cs
+C:\Users\3than\OneDrive\Documents\CodingDojo\CSharp_Stack\Pokeymans\obj\Debug\netcoreapp2.1\Pokeymans.dll
+C:\Users\3than\OneDrive\Documents\CodingDojo\CSharp_Stack\Pokeymans\obj\Debug\netcoreapp2.1\Pokeymans.pdb
